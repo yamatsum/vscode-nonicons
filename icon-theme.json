@@ -14,15 +14,174 @@
     }
   ],
   "iconDefinitions": {
+    "_file": {
+      "fontCharacter": "\\f146",
+      "fontColor": "#959da5"
+    },
+    "_file_badge": {
+      "fontCharacter": "\\f147",
+      "fontColor": "#959da5"
+    },
+    "_file_code": {
+      "fontCharacter": "\\f149",
+      "fontColor": "#959da5"
+    },
     "_folder": {
       "fontCharacter": "\\f14b",
-      "fontColor": "#586069"
+      "fontColor": "#959da5"
     },
     "_folder_open": {
       "fontCharacter": "\\f14c",
-      "fontColor": "#586069"
+      "fontColor": "#959da5"
+    },
+    "_c": {
+      "fontCharacter": "\\f116",
+      "fontColor": "#79b8ff"
+    },
+    "_c_plusplus": {
+      "fontCharacter": "\\f117",
+      "fontColor": "#79b8ff"
+    },
+    "_css": {
+      "fontCharacter": "\\f12f",
+      "fontColor": "#79b8ff"
+    },
+    "_dart": {
+      "fontCharacter": "\\f130",
+      "fontColor": "#79b8ff"
+    },
+    "_docker": {
+      "fontCharacter": "\\f13e",
+      "fontColor": "#79b8ff"
+    },
+    "_git_commit": {
+      "fontCharacter": "\\f158",
+      "fontColor": "#959da5"
+    },
+    "_go": {
+      "fontCharacter": "\\f15d",
+      "fontColor": "#79b8ff"
+    },
+    "_html": {
+      "fontCharacter": "\\f167",
+      "fontColor": "#f97583"
+    },
+    "_java": {
+      "fontCharacter": "\\f171",
+      "fontColor": "#ffab70"
+    },
+    "_javascript": {
+      "fontCharacter": "\\f172",
+      "fontColor": "#ffea7f"
+    },
+    "_json": {
+      "fontCharacter": "\\f173",
+      "fontColor": "#959da5"
+    },
+    "_react": {
+      "fontCharacter": "\\f1ab",
+      "fontColor": "#79b8ff"
+    },
+    "_kotlin": {
+      "fontCharacter": "\\f176",
+      "fontColor": "#ffab70"
+    },
+    "_markdown": {
+      "fontCharacter": "\\f185",
+      "fontColor": "#959da5"
+    },
+    "_npm": {
+      "fontCharacter": "\\f193",
+      "fontColor": "#f97583"
+    },
+    "_lua": {
+      "fontCharacter": "\\f182",
+      "fontColor": "#79b8ff"
+    },
+    "_php": {
+      "fontCharacter": "\\f19f",
+      "fontColor": "#8a63d2"
+    },
+    "_perl": {
+      "fontCharacter": "\\f19d",
+      "fontColor": "#79b8ff"
+    },
+    "_python": {
+      "fontCharacter": "\\f1a7",
+      "fontColor": "#79b8ff"
+    },
+    "_r": {
+      "fontCharacter": "\\f1aa",
+      "fontColor": "#f97583"
+    },
+    "_ruby": {
+      "fontCharacter": "\\f1b8",
+      "fontColor": "#f97583"
+    },
+    "_toml": {
+      "fontCharacter": "\\f1dc",
+      "fontColor": "#f97583"
+    },
+    "_typescript": {
+      "fontCharacter": "\\f1e3",
+      "fontColor": "#79b8ff"
+    },
+    "_vim": {
+      "fontCharacter": "\\f1ec",
+      "fontColor": "#85e89d"
+    },
+    "_vue": {
+      "fontCharacter": "\\f1f4",
+      "fontColor": "#85e89d"
+    },
+    "_yaml": {
+      "fontCharacter": "\\f1f9",
+      "fontColor": "#f97583"
+    },
+    "_yarn": {
+      "fontCharacter": "\\f1fa",
+      "fontColor": "#79b8ff"
     }
   },
+  "file": "_file",
   "folder": "_folder",
-  "folderExpanded": "_folder_open"
+  "folderExpanded": "_folder_open",
+  "fileExtensions": {
+    "c": "_c",
+    "cpp": "_c_plusplus",
+    "css": "_css",
+    "dart": "_dart",
+    "go": "_go",
+    "html": "_html",
+    "java": "_java",
+    "js": "_javascript",
+    "json": "_json",
+    "jsx": "_react",
+    "tsx": "_react",
+    "kt": "_kotlin",
+    "md": "_markdown",
+    "lua": "_lua",
+    "php": "_php",
+    "pl": "_perl",
+    "py": "_python",
+    "r": "_r",
+    "rb": "_ruby",
+    "sh": "_file_code",
+    "toml": "_toml",
+    "ts": "_typescript",
+    "vim": "_vim",
+    "vue": "_vue",
+    "yml": "_yaml",
+    "yaml": "_yaml"
+  },
+  "fileNames": {
+    "dockerfile": "_docker",
+    ".gitignore": "_git_commit",
+    ".yarnrc": "_yarn",
+    "yarn.lock": "_yarn",
+    "package.json": "_npm",
+    "makefile": "_file_code",
+    "license": "_file_badge",
+    "license.md": "_file_badge"
+  }
 }
