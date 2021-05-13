@@ -1,0 +1,28 @@
+{
+  "fonts": [
+    {
+      "id": "nonicons",
+      "src": [
+        {
+          "path": "./fonts/nonicons.woff",
+          "format": "woff"
+        }
+      ],
+      "weight": "normal",
+      "style": "normal",
+      "size": "110%"
+    }
+  ],
+  "iconDefinitions": {
+    "_folder": {
+      "fontCharacter": "\\f14b",
+      "fontColor": "#586069"
+    },
+    "_folder_open": {
+      "fontCharacter": "\\f14c",
+      "fontColor": "#586069"
+    }
+  },
+  "folder": "_folder",
+  "folderExpanded": "_folder_open"
+}
