@@ -1,6 +1,10 @@
-# vscode-nonicons
+# Nonicons
+
+![thumbnail](https://github.com/yamatsum/nonicons/blob/img/src/img/thumbnail.png?raw=true)
 
 Icon set for vscode familiar with GitHub's VS Code themes.
+
+Nonicons are inspired by [Octicons](https://github.com/primer/octicons).
 
 ## Features
 
@@ -9,6 +13,5 @@ Icon set for vscode familiar with GitHub's VS Code themes.
 
 ### For more information
 
-- [primer/octicons](https://github.com/primer/octicons)
 - [yamatsum/nonicons](https://github.com/yamatsum/nonicons)
 - [yamatsum/nvim-nonicons](https://github.com/yamatsum/nvim-nonicons)

@@ -2,7 +2,7 @@
   "name": "vscode-nonicons",
 	"displayName": "Nonicons",
 	"description": "",
-	"version": "0.0.2",
+	"version": "0.0.6",
 	"publisher": "yamatsum",
 	"engines": {
 		"vscode": "^1.56.0"
@@ -14,11 +14,12 @@
         "onCommand:vscode-nonicons.helloWorld"
 	],
 	"main": "./out/extension.js",
+	"icon": "icons.png",
 	"contributes": {
         "iconThemes": [
             {
-                "id": "nonicons-icon-theme",
-                "label": "Nonicons Icon Theme",
+                "id": "nonicons",
+                "label": "Nonicons",
                 "path": "./icon-theme.json"
             }
         ]

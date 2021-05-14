@@ -34,6 +34,10 @@
       "fontCharacter": "\\f14c",
       "fontColor": "#959da5"
     },
+    "_book": {
+      "fontCharacter": "\\f10f",
+      "fontColor": "#959da5"
+    },
     "_c": {
       "fontCharacter": "\\f116",
       "fontColor": "#79b8ff"
@@ -50,9 +54,17 @@
       "fontCharacter": "\\f130",
       "fontColor": "#79b8ff"
     },
+    "_database": {
+      "fontCharacter": "\\f132",
+      "fontColor": "#f692ce"
+    },
     "_docker": {
       "fontCharacter": "\\f13e",
       "fontColor": "#79b8ff"
+    },
+    "_gear": {
+      "fontCharacter": "\\f155",
+      "fontColor": "#959da5"
     },
     "_git_commit": {
       "fontCharacter": "\\f158",
@@ -65,6 +77,10 @@
     "_html": {
       "fontCharacter": "\\f167",
       "fontColor": "#f97583"
+    },
+    "_image": {
+      "fontCharacter": "\\f169",
+      "fontColor": "#f692ce"
     },
     "_java": {
       "fontCharacter": "\\f171",
@@ -89,6 +105,10 @@
     "_markdown": {
       "fontCharacter": "\\f185",
       "fontColor": "#959da5"
+    },
+    "_node": {
+      "fontCharacter": "\\f190",
+      "fontColor": "#85e89d"
     },
     "_npm": {
       "fontCharacter": "\\f193",
@@ -117,6 +137,26 @@
     "_ruby": {
       "fontCharacter": "\\f1b8",
       "fontColor": "#f97583"
+    },
+    "_rust": {
+      "fontCharacter": "\\f1b9",
+      "fontColor": "#959da5"
+    },
+    "_scala": {
+      "fontCharacter": "\\f1ba",
+      "fontColor": "#f97583"
+    },
+    "_swift": {
+      "fontCharacter": "\\f1d2",
+      "fontColor": "#ffab70"
+    },
+    "_terminal": {
+      "fontCharacter": "\\f1d7",
+      "fontColor": "#8a63d2"
+    },
+    "_terraform": {
+      "fontCharacter": "\\f214",
+      "fontColor": "#8a63d2"
     },
     "_toml": {
       "fontCharacter": "\\f1dc",
@@ -151,9 +191,12 @@
     "cpp": "_c_plusplus",
     "css": "_css",
     "dart": "_dart",
+    "fish": "_terminal",
     "go": "_go",
     "html": "_html",
     "java": "_java",
+    "jpg": "_image",
+    "jpeg": "_image",
     "js": "_javascript",
     "json": "_json",
     "jsx": "_react",
@@ -163,25 +206,39 @@
     "lua": "_lua",
     "php": "_php",
     "pl": "_perl",
+    "png": "_image",
     "py": "_python",
     "r": "_r",
     "rb": "_ruby",
-    "sh": "_file_code",
+    "rs": "_rust",
+    "scala": "_scala",
+    "sh": "_terminal",
+    "sql": "_database",
+    "swift": "_swift",
     "toml": "_toml",
     "ts": "_typescript",
     "vim": "_vim",
     "vue": "_vue",
     "yml": "_yaml",
-    "yaml": "_yaml"
+    "yaml": "_yaml",
+    "zsh": "_terminal"
   },
   "fileNames": {
     "dockerfile": "_docker",
     ".gitignore": "_git_commit",
+    ".gitconfig": "_git_commit",
     ".yarnrc": "_yarn",
     "yarn.lock": "_yarn",
     "package.json": "_npm",
+    "package-lock.json": "_npm",
     "makefile": "_file_code",
     "license": "_file_badge",
-    "license.md": "_file_badge"
+    "license.md": "_file_badge",
+    "readme.md": "_book",
+    ".env": "_gear",
+    ".editorconfig": "_gear",
+    ".node-version": "_node",
+    "tsconfig.json": "_typescript",
+    ".terraform-version": "_terraform"
   }
 }
