@@ -2,13 +2,13 @@
   "name": "vscode-nonicons",
 	"displayName": "Nonicons",
 	"description": "",
-	"version": "0.0.6",
+	"version": "0.0.7",
 	"publisher": "yamatsum",
 	"engines": {
 		"vscode": "^1.56.0"
 	},
 	"categories": [
-		"Other"
+		"Themes"
 	],
 	"activationEvents": [
         "onCommand:vscode-nonicons.helloWorld"
