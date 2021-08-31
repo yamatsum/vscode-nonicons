@@ -246,6 +246,7 @@
     "scala": "_scala",
     "sh": "_terminal",
     "sql": "_database",
+    "svelte": "_svelte",
     "svg": "_svg",
     "swift": "_swift",
     "toml": "_toml",
@@ -288,7 +289,6 @@
     ".babelrc.json": "_babel",
     "babel.config.js": "_babel",
     "babel.config.json": "_babel",
-    ".svelte": "_svelte",
     "ionic.config.json": "_ionic",
     "capacitor.config.json": "_capacitor",
     "next.config.js": "_next"
