@@ -34,6 +34,10 @@
       "fontCharacter": "\\f14c",
       "fontColor": "#959da5"
     },
+    "_babel": {
+      "fontCharacter": "\\f225",
+      "fontColor": "#ffea7f"
+    },
     "_book": {
       "fontCharacter": "\\f10f",
       "fontColor": "#959da5"
@@ -44,6 +48,10 @@
     },
     "_c_plusplus": {
       "fontCharacter": "\\f117",
+      "fontColor": "#79b8ff"
+    },
+    "_capacitor": {
+      "fontCharacter": "\\f229",
       "fontColor": "#79b8ff"
     },
     "_css": {
@@ -86,6 +94,10 @@
       "fontCharacter": "\\f169",
       "fontColor": "#f692ce"
     },
+    "_ionic": {
+      "fontCharacter": "\\f226",
+      "fontColor": "#79b8ff"
+    },
     "_java": {
       "fontCharacter": "\\f171",
       "fontColor": "#ffab70"
@@ -108,6 +120,10 @@
     },
     "_markdown": {
       "fontCharacter": "\\f185",
+      "fontColor": "#959da5"
+    },
+    "_next": {
+      "fontCharacter": "\\f227",
       "fontColor": "#959da5"
     },
     "_node": {
@@ -153,6 +169,14 @@
     "_scala": {
       "fontCharacter": "\\f1ba",
       "fontColor": "#f97583"
+    },
+    "_svelte": {
+      "fontCharacter": "\\f228",
+      "fontColor": "#ffab70"
+    },
+    "_svg": {
+      "fontCharacter": "\\f221",
+      "fontColor": "#ffab70"
     },
     "_swift": {
       "fontCharacter": "\\f1d2",
@@ -222,6 +246,7 @@
     "scala": "_scala",
     "sh": "_terminal",
     "sql": "_database",
+    "svg": "_svg",
     "swift": "_swift",
     "toml": "_toml",
     "ts": "_typescript",
@@ -248,13 +273,24 @@
     ".node-version": "_node",
     "tsconfig.json": "_typescript",
     ".terraform-version": "_terraform",
+    ".eslintrc": "_eslint",
     ".eslintrc.js": "_eslint",
     ".eslintrc.json": "_eslint",
     ".eslintrc.yml": "_eslint",
     ".eslintrc.yaml": "_eslint",
     ".prettierrc": "_prettier",
+    ".prettierrc.js": "_prettier",
     ".prettierrc.json": "_prettier",
     ".prettierrc.yml": "_prettier",
-    ".prettierrc.yaml": "_prettier"
+    ".prettierrc.yaml": "_prettier",
+    ".babelrc": "_babel",
+    ".babelrc.js": "_babel",
+    ".babelrc.json": "_babel",
+    "babel.config.js": "_babel",
+    "babel.config.json": "_babel",
+    ".svelte": "_svelte",
+    "ionic.config.json": "_ionic",
+    "capacitor.config.json": "_capacitor",
+    "next.config.js": "_next"
   }
 }
