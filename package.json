@@ -2,18 +2,14 @@
   "name": "vscode-nonicons",
   "displayName": "Nonicons",
   "description": "",
-  "version": "0.0.9",
+  "version": "0.0.11",
   "publisher": "yamatsum",
   "engines": {
-    "vscode": "^1.56.0"
+    "vscode": "^1.66.2"
   },
   "categories": [
     "Themes"
   ],
-  "activationEvents": [
-    "onCommand:vscode-nonicons.helloWorld"
-  ],
-  "main": "./out/extension.js",
   "icon": "icons.png",
   "contributes": {
     "iconThemes": [
@@ -28,8 +24,12 @@
     "type": "git",
     "url": "https://github.com/yamatsum/vscode-nonicons"
   },
-  "scripts": {},
+  "scripts": {
+    "build": "vsce package -o build/",
+    "publish": "vsce publish"
+  },
   "devDependencies": {
     "vscode-test": "^1.5.0"
-  }
+  },
+  "dependencies": {}
 }

@@ -27,11 +27,11 @@
       "fontColor": "#959da5"
     },
     "_folder": {
-      "fontCharacter": "\\f14b",
+      "fontCharacter": "\\f23b",
       "fontColor": "#959da5"
     },
     "_folder_open": {
-      "fontCharacter": "\\f14c",
+      "fontCharacter": "\\f23c",
       "fontColor": "#959da5"
     },
     "_babel": {
@@ -85,6 +85,10 @@
     "_go": {
       "fontCharacter": "\\f15d",
       "fontColor": "#79b8ff"
+    },
+    "_graphql": {
+      "fontCharacter": "\\f22a",
+      "fontColor": "#f692ce"
     },
     "_html": {
       "fontCharacter": "\\f167",
@@ -225,6 +229,8 @@
     "dart": "_dart",
     "fish": "_terminal",
     "go": "_go",
+    "gql": "_graphql",
+    "graphql": "_graphql",
     "html": "_html",
     "java": "_java",
     "jpg": "_image",
@@ -274,6 +280,7 @@
     ".node-version": "_node",
     "tsconfig.json": "_typescript",
     ".terraform-version": "_terraform",
+    ".eslintignore": "_eslint",
     ".eslintrc": "_eslint",
     ".eslintrc.js": "_eslint",
     ".eslintrc.json": "_eslint",
