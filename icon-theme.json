@@ -42,6 +42,10 @@
       "fontCharacter": "\\f10f",
       "fontColor": "#959da5"
     },
+    "_bookmark": {
+      "fontCharacter": "\\f110",
+      "fontColor": "#f692ce"
+    },
     "_c": {
       "fontCharacter": "\\f116",
       "fontColor": "#79b8ff"
@@ -261,7 +265,9 @@
     "vue": "_vue",
     "yml": "_yaml",
     "yaml": "_yaml",
-    "zsh": "_terminal"
+    "zsh": "_terminal",
+    "stories.tsx": "_bookmark",
+    "stories.jsx": "_bookmark"
   },
   "fileNames": {
     "dockerfile": "_docker",
