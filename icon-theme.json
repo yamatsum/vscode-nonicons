@@ -158,6 +158,10 @@
       "fontCharacter": "\\f21e",
       "fontColor": "#85e89d"
     },
+    "_prisma": {
+      "fontCharacter": "\\f25e",
+      "fontColor": "#85e89d"
+    },
     "_python": {
       "fontCharacter": "\\f1a7",
       "fontColor": "#79b8ff"
@@ -249,6 +253,7 @@
     "php": "_php",
     "pl": "_perl",
     "png": "_image",
+    "prisma": "_prisma",
     "py": "_python",
     "r": "_r",
     "rb": "_ruby",
