@@ -2,7 +2,7 @@
   "name": "vscode-nonicons",
   "displayName": "Nonicons",
   "description": "",
-  "version": "0.0.12",
+  "version": "0.0.15",
   "publisher": "yamatsum",
   "engines": {
     "vscode": "^1.66.2"

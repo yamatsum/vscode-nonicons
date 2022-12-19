@@ -270,6 +270,7 @@
     "vue": "_vue",
     "yml": "_yaml",
     "yaml": "_yaml",
+    "xml": "_file_code",
     "zsh": "_terminal",
     "stories.tsx": "_bookmark",
     "stories.jsx": "_bookmark"
