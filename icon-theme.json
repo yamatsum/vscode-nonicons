@@ -100,7 +100,7 @@
     },
     "_image": {
       "fontCharacter": "\\f169",
-      "fontColor": "#f692ce"
+      "fontColor": "#85e89d"
     },
     "_ionic": {
       "fontCharacter": "\\f226",
@@ -261,6 +261,8 @@
     "scala": "_scala",
     "sh": "_terminal",
     "sql": "_database",
+    "stories.jsx": "_bookmark",
+    "stories.tsx": "_bookmark",
     "svelte": "_svelte",
     "svg": "_svg",
     "swift": "_swift",
@@ -268,12 +270,11 @@
     "ts": "_typescript",
     "vim": "_vim",
     "vue": "_vue",
+    "webp": "_image",
     "yml": "_yaml",
     "yaml": "_yaml",
     "xml": "_file_code",
-    "zsh": "_terminal",
-    "stories.tsx": "_bookmark",
-    "stories.jsx": "_bookmark"
+    "zsh": "_terminal"
   },
   "fileNames": {
     "dockerfile": "_docker",
