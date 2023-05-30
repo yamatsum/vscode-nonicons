@@ -74,6 +74,10 @@
       "fontCharacter": "\\f13e",
       "fontColor": "#79b8ff"
     },
+    "_error": {
+      "fontCharacter": "\\f267",
+      "fontColor": "#959da5"
+    },
     "_eslint": {
       "fontCharacter": "\\f21d",
       "fontColor": "#8a63d2"
@@ -138,9 +142,21 @@
       "fontCharacter": "\\f190",
       "fontColor": "#85e89d"
     },
+    "_not_found": {
+      "fontCharacter": "\\f271",
+      "fontColor": "#959da5"
+    },
     "_npm": {
       "fontCharacter": "\\f193",
       "fontColor": "#f97583"
+    },
+    "_layout": {
+      "fontCharacter": "\\f26b",
+      "fontColor": "#959da5"
+    },
+    "_loading": {
+      "fontCharacter": "\\f26c",
+      "fontColor": "#959da5"
     },
     "_lua": {
       "fontCharacter": "\\f182",
@@ -193,6 +209,10 @@
     "_swift": {
       "fontCharacter": "\\f1d2",
       "fontColor": "#ffab70"
+    },
+    "_template": {
+      "fontCharacter": "\\f279",
+      "fontColor": "#959da5"
     },
     "_terminal": {
       "fontCharacter": "\\f1d7",
@@ -278,6 +298,7 @@
   },
   "fileNames": {
     "dockerfile": "_docker",
+    ".dockerignore": "_docker",
     ".gitignore": "_git_commit",
     ".gitconfig": "_git_commit",
     ".yarnrc": "_yarn",
@@ -304,6 +325,7 @@
     ".prettierrc.json": "_prettier",
     ".prettierrc.yml": "_prettier",
     ".prettierrc.yaml": "_prettier",
+    ".prettierignore": "_prettier",
     ".babelrc": "_babel",
     ".babelrc.js": "_babel",
     ".babelrc.json": "_babel",
@@ -311,6 +333,18 @@
     "babel.config.json": "_babel",
     "ionic.config.json": "_ionic",
     "capacitor.config.json": "_capacitor",
-    "next.config.js": "_next"
+    "next.config.js": "_next",
+    "page.jsx": "_file",
+    "page.tsx": "_file",
+    "layout.jsx": "_layout",
+    "layout.tsx": "_layout",
+    "template.jsx": "_template",
+    "template.tsx": "_template",
+    "not-found.jsx": "_not_found",
+    "not-found.tsx": "_not_found",
+    "error.jsx": "_error",
+    "error.tsx": "_error",
+    "loading.jsx": "_loading",
+    "loading.tsx": "_loading"
   }
 }
