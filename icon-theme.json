@@ -222,6 +222,10 @@
       "fontCharacter": "\\f214",
       "fontColor": "#8a63d2"
     },
+    "_test": {
+      "fontCharacter": "\\f10b",
+      "fontColor": "#959da5"
+    },
     "_toml": {
       "fontCharacter": "\\f1dc",
       "fontColor": "#f97583"
@@ -280,6 +284,8 @@
     "rs": "_rust",
     "scala": "_scala",
     "sh": "_terminal",
+    "spec.ts": "_test",
+    "spec.tsx": "_test",
     "sql": "_database",
     "stories.jsx": "_bookmark",
     "stories.tsx": "_bookmark",
@@ -287,6 +293,8 @@
     "svg": "_svg",
     "swift": "_swift",
     "toml": "_toml",
+    "test.ts": "_test",
+    "test.tsx": "_test",
     "ts": "_typescript",
     "vim": "_vim",
     "vue": "_vue",
