@@ -38,6 +38,10 @@
       "fontCharacter": "\\f225",
       "fontColor": "#ffea7f"
     },
+    "_biome": {
+      "fontCharacter": "\\f27e",
+      "fontColor": "#79b8ff"
+    },
     "_book": {
       "fontCharacter": "\\f10f",
       "fontColor": "#959da5"
@@ -60,7 +64,7 @@
     },
     "_css": {
       "fontCharacter": "\\f12f",
-      "fontColor": "#79b8ff"
+      "fontColor": "#8a63d2"
     },
     "_dart": {
       "fontCharacter": "\\f130",
@@ -230,6 +234,10 @@
       "fontCharacter": "\\f1dc",
       "fontColor": "#f97583"
     },
+    "_turbo": {
+      "fontCharacter": "\\f27f",
+      "fontColor": "#f97583"
+    },
     "_typescript": {
       "fontCharacter": "\\f1e3",
       "fontColor": "#79b8ff"
@@ -359,6 +367,8 @@
     "error.jsx": "_error",
     "error.tsx": "_error",
     "loading.jsx": "_loading",
-    "loading.tsx": "_loading"
+    "loading.tsx": "_loading",
+    "turbo.json": "_turbo",
+    "biome.json": "_biome"
   }
 }
